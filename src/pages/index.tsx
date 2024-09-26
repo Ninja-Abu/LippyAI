@@ -11,7 +11,7 @@ import Pricing from "@/components/Pricing";
 import CTA from "@/components/CTA";
 import BookingForm from "@/components/BookingForm";
 import Footer from "@/components/Footer";
-import Image from "next/image";
+
 
 export default function Home() {
   return (
